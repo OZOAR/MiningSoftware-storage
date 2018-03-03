@@ -1,0 +1,1 @@
+ccminer.exe -a phi -o stratum+tcp://yiimp.ccminer.org:8333 -u benchmark --max-log-rate 60
